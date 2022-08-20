@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T19:16:48.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1qnJyVCMGpI5C2xUU8v8" version="20.2.3" type="github" pages="2">
-  <diagram id="lLB_pNpaPfYKxERXUEZJ" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-08-20T19:21:33.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tK8EiPEYWnIHoB9yVUSW" version="20.2.3" type="github" pages="2">
+  <diagram id="lLB_pNpaPfYKxERXUEZJ" name="Quote EnQuiry Page">
     <mxGraphModel dx="1186" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -130,7 +130,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Page-1" id="_I2GoxYQ2NQX1jzxnbpQ">
+  <diagram name="Book Quote Page" id="_I2GoxYQ2NQX1jzxnbpQ">
     <mxGraphModel dx="1186" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="jm9fjfxURlK2PHqLyDOq-0" />
